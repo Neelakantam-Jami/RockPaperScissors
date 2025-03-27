@@ -13,8 +13,8 @@ h1{
 }
 
 .choice{
-    height: 170px;
-    width: 170px;
+    height: 21vmin;
+    width: 21vmin;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -27,8 +27,8 @@ h1{
 }
 
 img{
-    height: 150px;
-    width: 150px;
+    height: 20vmin;
+    width: 20vmin;
     object-fit: cover;
     border-radius: 50%;
 }
@@ -37,7 +37,7 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 3rem;
+    gap: 2rem;
     margin-top: 5rem;
 }
 
@@ -62,7 +62,7 @@ img{
     background-color: black;
     color: #fff;
     height: 5rem;
-    font-size: 2rem;
+    font-size: 3vmin;
     display: inline;
     padding: 1rem;
     border-radius: 1rem;
